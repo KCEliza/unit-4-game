@@ -1,42 +1,11 @@
-/* body{
+body{
     text-align:center;
     margin-left: 25%;
     width:50%;
 }
+ 
 #directions{
     border: solid black;
+    background: silver;
 }
-#wins{
-    float:left;
-    width: 47%;
-    margin:5px;
-    background:green;
-}
-#losses{
-    background:orange;
-    float:right;
-    width:47%;
-    margin:5px;
-}
-#score{
-    background:pink;
-    width:45%;
-}
-#number{
-    float:left;
-    background:purple;
-    width:45%;
-}
-#compNum{
-    float:left;
-    background:red;
-    width:45%;
-    
-}
-#scoreCounter{
-    background:blue;
-}
-img{
-    height:200px;
-    width:22%;
-} */
+
